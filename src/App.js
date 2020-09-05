@@ -9,6 +9,7 @@ import pic01 from "./assets/images/Butterfly1.jpg";
 import pic02 from "./assets/images/Butterfly2.jpg";
 import pic03 from "./assets/images/Butterfly3.jpg";
 
+//My code for one-page React app about butterflies
 export default function App() {
   const [quote, setQuote] = useState();
   const url=`https://quotes.rest/qod?language=en`;
