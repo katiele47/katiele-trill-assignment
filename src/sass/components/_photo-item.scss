@@ -1,0 +1,16 @@
+.photo-item {
+    .img-wrapper {
+        position: relative;
+        margin-bottom: 1.5rem;
+    }
+    img {
+        width: 29rem;
+        height: 29rem;
+        object-fit: cover;
+        border-radius: 1.5rem;
+    }
+    h4 {
+        font-size: 2rem;
+        font-weight: 900;
+    }
+}
